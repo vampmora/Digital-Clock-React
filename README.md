@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+  Simple Digital clock and date with React
+
+![image](https://user-images.githubusercontent.com/74483757/191096339-68e9d1b9-50ba-4703-8d26-ea7924ea524d.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
